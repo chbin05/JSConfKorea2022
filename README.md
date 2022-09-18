@@ -14,6 +14,8 @@ JSConfKorea2022 발표자료
 다양한 요구사항을 소화할 수 있는 프로덕트 설계에 대해 많은 고민을 하고 있습니다. 
 여행을 좋아하고 맛있는 음식들을 찾아 돌아다니는 걸 좋아합니다.
 
+https://2022.jsconf.kr/speakers/jeong-eun-lee
+
 ## if (extensible design)  return "work life balance"
 
 "Please make changes to this.", "Can we finish this by the deadline?"
@@ -26,3 +28,5 @@ To make sure no one bothers your weekend, I will share insights about architectu
 Jeong Eun Lee is a front-end developer based in South Korea. 
 She cares a lot about product architecture that can embrace various requirements. 
 She loves to travel and to find great foodie spots.
+
+https://2022.jsconf.kr/en/speakers/jeong-eun-lee
